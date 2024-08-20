@@ -86,7 +86,7 @@ either query any of these or select one or more while configuring it.
 
 Troubleshooting should be easy as the **Azure Importer** does send log
 information through the IcingaWeb2 logging pipeline. Just have your IcingaWeb2
-logging configured and make shure that you get INFO level messages as well.
+logging configured and make sure that you get INFO level messages as well.
 
 
 Dependencies
