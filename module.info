@@ -1,5 +1,5 @@
 Name: Azure
 Version: 0.6.3
-Depends: director>=1.3.0
+Depends: director (>=1.3.0)
 Description: Azure Cloud module for Icinga Web 2
  This module provides an Azure import source for Icinga Director
